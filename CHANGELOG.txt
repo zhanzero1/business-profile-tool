@@ -1,4 +1,8 @@
 # CHANGELOG
+
+## [2.5.2]
+- Dep treai
+
 ## [2.5.1]
 -Đẹp trai
 ## [2.5.0]
