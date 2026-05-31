@@ -1,0 +1,18 @@
+# CHANGELOG
+
+## [2.5.0]
+- Add Auto-updater (kiểm tra/tải/áp dụng cập nhật từ Manifest URL)
+- Fix set_form_banner: click Done INSIDE picker iframe (Google Forms UI mới)
+- Add nút "Chuẩn bị + Chạy Apps Script" — chạy 2 quy trình trong 1 browser
+- Add UI checkbox "Lấy link edit" + UI field "Tên form"
+- Multi-acc atomic claim trên shared sheet (chống trùng email)
+- Wire app_browser setting (Chrome/Firefox/GPM) vào 11 worker còn lại
+- Clean UI tab Gửi email (xóa hint labels)
+
+## [2.4.0]
+- Add tab "📧 Gửi email" với pipeline 8 bước
+- Add nút "▶ Chuẩn bị form" + "▶ Chạy Apps Script"
+
+## [2.3.0]
+- Initial public release
+

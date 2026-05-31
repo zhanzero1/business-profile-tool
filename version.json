@@ -1,0 +1,12 @@
+{
+  "version": "2.5.0",
+  "released_at": "2026-05-31T08:18:14Z",
+  "changelog": "- Add Auto-updater (kiểm tra/tải/áp dụng cập nhật từ Manifest URL)\n- Fix set_form_banner: click Done INSIDE picker iframe (Google Forms UI mới)\n- Add nút \"Chuẩn bị + Chạy Apps Script\" — chạy 2 quy trình trong 1 browser\n- Add UI checkbox \"Lấy link edit\" + UI field \"Tên form\"\n- Multi-acc atomic claim trên shared sheet (chống trùng email)\n- Wire app_browser setting (Chrome/Firefox/GPM) vào 11 worker còn lại\n- Clean UI tab Gửi email (xóa hint labels)",
+  "assets": {
+    "exe": {
+      "url": "https://github.com/zhanzero1/business-profile-tool/releases/download/v2.5.0/BusinessProfileTool.exe",
+      "sha256": "4e730a71c90e97198749114e7421a9e072ae06385ba4ba5138174cb041b471f5",
+      "size": 15430239
+    }
+  }
+}
