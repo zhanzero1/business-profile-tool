@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## [2.5.5]
+- fix all
+
 ## [2.5.4]
 - fix
 
