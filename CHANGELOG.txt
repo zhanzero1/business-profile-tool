@@ -1,5 +1,6 @@
 # CHANGELOG
-
+## [2.5.1]
+-Đẹp trai
 ## [2.5.0]
 - Add Auto-updater (kiểm tra/tải/áp dụng cập nhật từ Manifest URL)
 - Fix set_form_banner: click Done INSIDE picker iframe (Google Forms UI mới)
