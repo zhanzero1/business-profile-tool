@@ -1,12 +1,12 @@
 {
-  "version": "2.5.6",
-  "released_at": "2026-06-01T04:26:01Z",
-  "changelog": "- Fix",
+  "version": "2.5.7",
+  "released_at": "2026-06-03T07:43:53Z",
+  "changelog": "- Fix all",
   "assets": {
     "exe": {
-      "url": "https://github.com/zhanzero1/business-profile-tool/releases/download/v2.5.6/BusinessProfileTool.exe",
-      "sha256": "9e86d7356b2e4fe8c15833543d51dbf44ba8977dd2d3c4b983fae8c50041abbc",
-      "size": 15442529
+      "url": "https://github.com/zhanzero1/business-profile-tool/releases/download/v2.5.7/BusinessProfileTool.exe",
+      "sha256": "afabd25e516f6c9523a2ce31585d84e6385cb9e61af7cd9eed01f590ce057532",
+      "size": 15474761
     }
   }
 }
