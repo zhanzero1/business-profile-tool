@@ -1,12 +1,12 @@
 {
-  "version": "2.5.7",
-  "released_at": "2026-06-03T07:43:53Z",
-  "changelog": "- Fix all",
+  "version": "2.5.8",
+  "released_at": "2026-06-04T08:58:09Z",
+  "changelog": "- Mô tả thay đổi ở đây...\n- ok",
   "assets": {
     "exe": {
-      "url": "https://github.com/zhanzero1/business-profile-tool/releases/download/v2.5.7/BusinessProfileTool.exe",
-      "sha256": "afabd25e516f6c9523a2ce31585d84e6385cb9e61af7cd9eed01f590ce057532",
-      "size": 15474761
+      "url": "https://github.com/zhanzero1/business-profile-tool/releases/download/v2.5.8/BusinessProfileTool.exe",
+      "sha256": "ce22aa20ab6a51aa2a9394ffe2b4b633802d5b9c1cabb5d52beac448c9146cbc",
+      "size": 15515610
     }
   }
 }
